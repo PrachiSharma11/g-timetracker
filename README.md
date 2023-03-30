@@ -1,4 +1,4 @@
-# Global Time Tracker
+# Global Time Tracker yeah right
 G-TimeTracker is a simple and cloud-friendly open source time tracker.
 
 ## Description
